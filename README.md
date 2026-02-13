@@ -24,22 +24,6 @@
 
 ---
 
-##  GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babisha-dev&show_icons=true&theme=transparent&title_color=A18CD1&icon_color=A18CD1&text_color=555" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babisha-dev&layout=compact&theme=transparent&title_color=A18CD1&text_color=555" height="165"/>
-</p>
-
----
-
-##  Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=babisha-dev&theme=transparent&ring=A18CD1&fire=FDCBFF&currStreakLabel=A18CD1" />
-</p>
-
----
 
 ##  Featured Projects
 
@@ -56,10 +40,10 @@ Transaction data reconciliation with mismatch detection.
 
 ##  Current Focus
 
-✔ Strengthening Backend Development  
-✔ Writing cleaner & structured code  
-✔ Practicing DSA consistently  
-✔ Building production-level projects  
+ Strengthening Backend Development  
+ Writing cleaner & structured code  
+ Practicing DSA consistently  
+ Building production-level projects  
 
 ---
 
