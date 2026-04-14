@@ -1,6 +1,6 @@
 <p align="center">
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDCBFF,100:A18CD1&height=250&section=header&text=Babisha%20S&font=Poppins&fontSize=48&fontAlignY=35&desc=Software%20Developer%20|%20Java%20|%20Full%20Stack%20Learner&descAlignY=60&descSize=20&fontColor=ffffff&animation=fadeIn" />-->
-  <img src="https://canva.link/cyqrh5fbokx191o" />
+ <a href="https://ibb.co/FbFv8wbf"><img src="https://i.ibb.co/TBsXP8Bn/ok.jpg" alt="ok" border="0"></a>
 </p>
 
 ---
