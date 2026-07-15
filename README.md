@@ -1,66 +1,176 @@
+<!--<p align="center">
+<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+</p>-->
+
+<h1 align="center">Hi 👋, I'm Babisha S</h1>
+
+<h3 align="center">
+Java Full Stack Developer • Spring Boot • React • DSA Enthusiast
+</h3>
+
 <p align="center">
- <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDCBFF,100:A18CD1&height=250&section=header&text=Babisha%20S&font=Poppins&fontSize=48&fontAlignY=35&desc=Software%20Developer%20|%20Java%20|%20Full%20Stack%20Learner&descAlignY=60&descSize=20&fontColor=ffffff&animation=fadeIn" />-->
-<a href="https://ibb.co/P80v3Tc"><img src="https://i.ibb.co/XTMrNy7/ok-2.jpg" alt="ok-2" border="0"></a>
+Building scalable backend applications while mastering Data Structures & Algorithms.
 </p>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
- - Computer Science Engineering Graduate  
- - Passionate about building clean & user-friendly applications  
- - Strong foundation in Frontend Development  
- - Currently strengthening Backend with Java  
- - Improving Data Structures & Algorithms daily  
-  
+🎓 Computer Science Engineer
+
+💻 Passionate about Java Backend Development
+
+🌱 Currently learning
+
+- Spring Boot
+- Multithreading
+- System Design
+- Microservices
+- AWS
+
+🧠 Solving DSA regularly on LeetCode
+
+🚀 Looking for Java Backend / Full Stack opportunities
 
 ---
 
-##  Tech Stack
+## I Code In 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,c,cpp,html,css,js,bootstrap"/>
+
+<br>
+<br>
+</p>
+
+## IDE & Tools I use
+
+<p align="center">
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman"/>
+
 </p>
 
 ---
 
+# 💼 Featured Projects
 
-##  Featured Projects
+## 🔹 Smart Reconciliation & Audit System
 
-###  Bracelet Supreme  
-Full-stack e-commerce web application with authentication, shopping cart & admin dashboard.
-
-###  Smart Energy Platform  
-Responsive website for solar & battery solutions business.
-
-###  Smart Reconciliation System  
-Transaction data reconciliation with mismatch detection.
-
----
-
-##  Current Focus
-
- Strengthening Backend Development  
- Writing cleaner & structured code  
- Practicing DSA consistently  
- Building production-level projects  
+- Spring Boot
+- React
+- JWT Authentication
+- MySQL
+- CSV Upload
+- Role Based Access
+- Audit Logs
 
 ---
 
-##  Connect With Me
+## 🔹 AI Travel Booking Platform
+
+- Spring Boot
+- React
+- REST APIs
+- JWT
+- MySQL
+
+---
+
+## 🔹 Bracelet Supreme
+
+E-Commerce application
+
+- Authentication
+- Cart
+- Product Management
+- Responsive UI
+
+---
+
+## 📈 Current Focus
+
+✔ AI/ML
+
+✔ System Design
+
+✔ AWS
+
+---
+
+# 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/babisha-s/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:babishariya@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://leetcode.com/u/babisha_s/">
+<img src="https://leetcard.jacoblin.cool/babisha_s?theme=dark&font=Karma"/>
+
+</a>
+
 </p>
 
 ---
 
+<!--## 📊 GitHub Stats
+
 <p align="center">
- Building with consistency. Growing with discipline. 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babisha-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babisha-dev&theme=tokyonight" />
+</p>
+
+---
+-->
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babisha-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=babisha-dev&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/babisha_s">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:babishariya@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
+<a href="https://www.reddit.com/user/Just-Development1794/" target="_blank">
+  <img src="https://cdn.simpleicons.org/reddit" height="48" />
+</a>
+
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=babisha-dev&label=Profile%20Views&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/babisha-dev?label=Followers&style=for-the-badge" />
+</p>
+<p align="center">
+
+<p align="center">⭐ Building with consistency. Growing with discipline. ⭐</p>
+
 </p>
