@@ -1,6 +1,9 @@
-<!--<p align="center">
-<img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
-</p>-->
+<!-- Banner -->
+<!--
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
+</p>
+-->
 
 <h1 align="center">Hi 👋, I'm Babisha S</h1>
 
@@ -14,13 +17,13 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Computer Science Engineer
+🎓 Computer Science Engineering Graduate
 
 💻 Passionate about Java Backend Development
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - Spring Boot
 - Multithreading
@@ -30,27 +33,22 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 🧠 Solving DSA regularly on LeetCode
 
-🚀 Looking for Java Backend / Full Stack opportunities
+🚀 Looking for Java Backend / Full Stack Opportunities
 
 ---
 
-## I Code In 
+# 💻 I Code In
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,c,cpp,html,css,js,bootstrap"/>
-
-<br>
-<br>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,c,cpp,html,css,js,bootstrap" />
 </p>
 
-## IDE & Tools I use
+---
+
+# 🛠 IDE & Tools I Use
 
 <p align="center">
-
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
 </p>
 
 ---
@@ -81,7 +79,7 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 ## 🔹 Bracelet Supreme
 
-E-Commerce application
+E-Commerce Application
 
 - Authentication
 - Cart
@@ -90,47 +88,31 @@ E-Commerce application
 
 ---
 
-## 📈 Current Focus
+# 📈 Current Focus
 
-✔ AI/ML
-
-✔ System Design
-
-✔ AWS
+- ✔ AI / ML
+- ✔ System Design
+- ✔ AWS
 
 ---
 
 # 🏆 Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/u/babisha_s/">
-<img src="https://leetcard.jacoblin.cool/babisha_s?theme=dark&font=Karma"/>
-
-</a>
-
+  <a href="https://leetcode.com/u/babisha_s/">
+    <img src="https://leetcard.jacoblin.cool/babisha_s?theme=dark&font=Karma" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
 
-<!--## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babisha-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babisha-dev&theme=tokyonight" />
-</p>
-
----
--->
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true&v=20260717"/>
-![GitHub Streak](https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true)
+  <img
+    src="https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -138,9 +120,10 @@ E-Commerce application
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babisha-dev&theme=react-dark"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=babisha-dev&theme=react-dark"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -149,28 +132,35 @@ E-Commerce application
 
 <p align="center">
 
-<a href="https://linkedin.com/in/babisha_s">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/babisha-s/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 
 <a href="mailto:babishariya@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
 
+<a href="https://dev.to/babisha_s">
+  <img src="https://cdn.simpleicons.org/devdotto" height="48" />
+</a>
 
-<a href="https://www.reddit.com/user/Just-Development1794/" target="_blank">
+<a href="https://medium.com/@babishariyaz">
+  <img src="https://cdn.simpleicons.org/medium" height="48" />
+</a>
+
+<a href="https://www.reddit.com/user/Just-Development1794/">
   <img src="https://cdn.simpleicons.org/reddit" height="48" />
 </a>
 
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=babisha-dev&label=Profile%20Views&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/babisha-dev?label=Followers&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=babisha-dev&label=Profile%20Views&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/babisha-dev?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
 </p>
+
 <p align="center">
-
-<p align="center">⭐ Building with consistency. Growing with discipline. ⭐</p>
-
+⭐ <b>Building with consistency. Growing with discipline.</b> ⭐
 </p>
