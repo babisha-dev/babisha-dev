@@ -105,14 +105,20 @@ E-Commerce Application
 </p>
 
 ---
+## 📊 GitHub Stats
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babisha-dev&theme=tokyonight" /> 
+<!--</p> 
+<p align="center">-->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babisha-dev&theme=tokyonight" /> 
+</p> 
+
+
+---
 
 # 🔥 GitHub Streak
-
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img src="https://streak-stats.demolab.com/?user=babisha-dev&theme=tokyonight&hide_border=true" alt="Git Streaks >
 </p>
 
 ---
@@ -128,6 +134,9 @@ E-Commerce Application
 
 ---
 
+
+
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -138,14 +147,6 @@ E-Commerce Application
 
 <a href="mailto:babishariya@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-</a>
-
-<a href="https://dev.to/babisha_s">
-  <img src="https://cdn.simpleicons.org/devdotto" height="48" />
-</a>
-
-<a href="https://medium.com/@babishariyaz">
-  <img src="https://cdn.simpleicons.org/medium" height="48" />
 </a>
 
 <a href="https://www.reddit.com/user/Just-Development1794/">
