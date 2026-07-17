@@ -107,9 +107,8 @@ E-Commerce Application
 ---
 ## 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babisha-dev&theme=tokyonight" /> 
-<!--</p> 
-<p align="center">-->
+  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=babisha-dev&theme=tokyonight" alt="Git Stats /> 
+    </p> <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=babisha-dev&theme=tokyonight" /> 
 </p> 
 
@@ -120,6 +119,9 @@ E-Commerce Application
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=babisha-dev&theme=tokyonight&hide_border=true" alt="Git Streaks >
 </p>
+
+
+---
 
 ---
 
