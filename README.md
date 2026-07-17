@@ -129,8 +129,8 @@ E-Commerce application
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=babisha-dev&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true&v=20260717"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=babisha-dev&theme=tokyonight&hide_border=true)
 </p>
 
 ---
