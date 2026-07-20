@@ -17,9 +17,9 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
-🎓 Computer Science Engineering Graduate
+🎓 Self taught Computer Science Engineer
 
 💻 Passionate about Java Backend Development
 
@@ -33,11 +33,11 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 🧠 Solving DSA regularly on LeetCode
 
-🚀 Looking for Java Backend / Full Stack Opportunities
+ Looking for Java Backend / Full Stack Opportunities
 
 ---
 
-# 💻 I Code In
+#  I Code In
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,c,cpp,html,css,js,bootstrap" />
@@ -45,7 +45,7 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 ---
 
-# 🛠 IDE & Tools I Use
+# IDE & Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman" />
@@ -53,7 +53,7 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 ---
 
-# 💼 Featured Projects
+#  Featured Projects
 
 ## 🔹 Smart Reconciliation & Audit System
 
@@ -88,7 +88,7 @@ E-Commerce Application
 
 ---
 
-# 📈 Current Focus
+# Current Focus
 
 - ✔ AI / ML
 - ✔ System Design
@@ -96,7 +96,7 @@ E-Commerce Application
 
 ---
 
-# 🏆 Coding Profiles
+#  Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/babisha_s/">
