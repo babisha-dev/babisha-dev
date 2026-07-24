@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Babisha S</h1>
 
 <h3 align="center">
-Java Full Stack Developer • Spring Boot • React • DSA Enthusiast
+Backend Developer • Spring Boot • Python • Java • React • DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -21,11 +21,10 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 🎓 Self taught Computer Science Engineer
 
-💻 Passionate about Java Backend Development
+💻 Passionate about Backend Development
 
 🌱 Currently Learning
 
-- Spring Boot
 - Multithreading
 - System Design
 - Microservices
@@ -33,7 +32,7 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 🧠 Solving DSA regularly on LeetCode
 
- Looking for Java Backend / Full Stack Opportunities
+ Looking for  Backend / Full Stack Opportunities
 
 ---
 
