@@ -1,9 +1,4 @@
-<!-- Banner -->
-<!--
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner"/>
-</p>
--->
+
 
 <h1 align="center">Hi 👋, I'm Babisha S</h1>
 
