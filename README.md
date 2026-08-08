@@ -54,7 +54,7 @@ Building scalable backend applications while mastering Data Structures & Algorit
 - Spring Boot
 - React
 - JWT Authentication
-- MySQL
+- PostgreSQL
 - CSV Upload
 - Role Based Access
 - Audit Logs
