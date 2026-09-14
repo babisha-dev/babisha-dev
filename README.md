@@ -27,7 +27,6 @@ Building scalable backend applications while mastering Data Structures & Algorit
 
 🧠 Solving DSA regularly on LeetCode
 
- Looking for  Backend / Full Stack Opportunities
 
 ---
 
