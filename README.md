@@ -119,10 +119,7 @@ E-Commerce Application
 
 # 📈 Contribution Graph
 
-<img
-  src="https://your-own-deployment.vercel.app/graph?username=babisha-dev"
-  alt="Babisha's GitHub Activity Graph"
-/>
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=babisha-dev&theme=tokyo-night&hide_border=true&area=true"
